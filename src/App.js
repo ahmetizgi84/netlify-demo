@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Netlify-demo
+          Hello from the other side
         </a>
       </header>
     </div>
